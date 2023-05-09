@@ -1,4 +1,4 @@
-# Chatbot
+# Mental Health Chatbot
 
 This is a Python based mental health chatbot that asks users how they have been feeling lately, and it performs sentiment and sylistic
 analysis on their input. The program instantiates and trains a variety of machine learning models, but it ultimately uses a multi-layer
